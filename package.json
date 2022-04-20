@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chidin194/FizzBuzz/issues"
   },
-  "homepage": "https://github.com/chidin194/FizzBuzz#readme"
+  "homepage": "https://github.com/chidin194/FizzBuzz#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
